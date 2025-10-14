@@ -54,6 +54,3 @@ This repository contains microservices for Identity and Access Management (IAM),
 ## Project Structure
 - `auth-service/` - Authentication and authorization microservice
 - `user-management/` - User management microservice
-
-## License
-This project is licensed under the MIT License.
